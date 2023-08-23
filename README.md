@@ -109,7 +109,10 @@ Só é possível excluir uma conta caso o saldo dela seja zero. É necessário i
 
 
 #### Rota de Alteração de Conta.
-É necessário informar o número da conta na rota, e enviar as informações a serem alteradas no body. É obrigatório informar a senha para realizar a operação.
+É necessário informar o número da conta na rota, e enviar as informações a serem alteradas no body. A senha pessoal da conta é obrigatória para realizar a operação.
+
+
+![image](https://github.com/isadeop/Desafio-M2Cubos-API-Bancaria/assets/138228355/0c5b4435-c0c9-4970-b2ad-df28f361aa6f)
 
 
 
